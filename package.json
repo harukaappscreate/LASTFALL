@@ -1,0 +1,28 @@
+{
+  "name": "lastfall",
+  "version": "1.0.0",
+  "description": "LASTFALL - Browser-based 3D Battle Royale & Zombie Survival action game built with Three.js",
+  "main": "game.js",
+  "scripts": {
+    "build": "esbuild src/main.js --bundle --format=iife --target=es2020 --minify --outfile=game.js",
+    "build:dist": "mkdir -p dist && esbuild src/main.js --bundle --format=iife --target=es2020 --minify --outfile=dist/game.js --log-level=warning && cp index.html dist/",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "game",
+    "battle-royale",
+    "threejs",
+    "webgl",
+    "pve",
+    "pvp",
+    "3d",
+    "browser-game",
+    "javascript"
+  ],
+  "author": "haruka_apps",
+  "license": "MIT",
+  "devDependencies": {
+    "esbuild": "^0.24.0",
+    "three": "^0.170.0"
+  }
+}

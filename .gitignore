@@ -1,0 +1,40 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# Node / Package Manager
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm
+
+# Build Outputs (root game.js is tracked for direct browser play & GitHub Pages)
+dist/
+build/
+*.tmp
+
+# IDE / Editor Files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Environment & Local Secrets
+.env
+.env.local
+.env.*.local
+
+# AI / Assistant Scratch Files
+.gemini/
+scratch/
