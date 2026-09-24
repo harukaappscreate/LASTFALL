@@ -15,7 +15,11 @@
 
 ---
 
-## 🎮 すぐに遊ぶ (How to Play)
+## 🎮 すぐに遊ぶ (Play Online)
+
+> 🕹️ **ブラウザですぐにプレイ:**  
+> **👉 [https://harukaappscreate.github.io/LASTFALL/](https://harukaappscreate.github.io/LASTFALL/)**  
+> *(PCの Chrome / Edge / Arc 等の Chromium系ブラウザ推奨)*
 
 ### 1. ローカルで遊ぶ
 特別なサーバーやインストールは一切不要です。
@@ -168,7 +172,7 @@ LASTFALL/
 ## 👤 作者 (Author)
 
 **haruka_apps**
-- GitHub: [@haruka-apps](https://github.com/haruka_apps) *(環境に合わせてリンク)*
+- GitHub: [harukaappscreate](https://github.com/harukaappscreate)
 
 ---
 
